@@ -9,7 +9,7 @@
 	url = https://git.yoctoproject.org/git/meta-raspberrypi
 [submodule "layers/meta-resin"]
 	path = layers/meta-resin
-	url = https://github.com/resin-os/meta-resin.git
+	url = https://github.com/eigendude/meta-resin.git
 [submodule "resin-yocto-scripts"]
 	path = resin-yocto-scripts
 	url = https://github.com/resin-os/resin-yocto-scripts.git
